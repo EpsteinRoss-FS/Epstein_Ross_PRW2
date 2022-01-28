@@ -17,7 +17,7 @@ function App() {
       {/*<BodyComponent />*/}
           <section>
               <Routes>
-                  <Route path="/" element={<Dashboard />} />
+                  <Route path="/" element={<Reports />} />
                   <Route path="dashboard" element={<Dashboard />} />
                   <Route path="savings" element={<Savings />} />
                   <Route path="reports" element={<Reports />} />
