@@ -8,6 +8,7 @@ import Savings from "./components/Savings";
 import Reports from "./components/Reports";
 import Income from "./components/Income";
 import Spending from "./components/Spending";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
